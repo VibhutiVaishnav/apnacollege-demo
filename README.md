@@ -1,4 +1,2 @@
 # apnacollege-demo
-This is my first git repository.
-
-Author- Vibhuti Vaishnav
+This is my first git repository.Author- Vibhuti Vaishnav
